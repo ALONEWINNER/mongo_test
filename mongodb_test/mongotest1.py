@@ -6,6 +6,11 @@ db = client.test
 print(db)
 
 # creating dict
+d = {
+    "name":"sudhanshu",
+    "email" : "sudhanshu@ineuron.ai",
+    "surname" : "kumar"
+}
 d ={
     "name":"shubham",
     "email":"drsn@gmail.com",
